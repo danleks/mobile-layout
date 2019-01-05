@@ -1,21 +1,7 @@
 # mobile-layout
 
-## Project setup
-```
-npm install
-```
+A mobile-layout created to master flexbox.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## helpful links:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+* [Live version of the APP](https://wizardly-wing-e54641.netlify.com)
